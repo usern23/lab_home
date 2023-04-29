@@ -1,0 +1,15 @@
+D:\vs community\Delegate_Interface\Delegate_Interface\bin\Debug\net6.0\Delegate_Interface.exe
+D:\vs community\Delegate_Interface\Delegate_Interface\bin\Debug\net6.0\Delegate_Interface.deps.json
+D:\vs community\Delegate_Interface\Delegate_Interface\bin\Debug\net6.0\Delegate_Interface.runtimeconfig.json
+D:\vs community\Delegate_Interface\Delegate_Interface\bin\Debug\net6.0\Delegate_Interface.dll
+D:\vs community\Delegate_Interface\Delegate_Interface\bin\Debug\net6.0\Delegate_Interface.pdb
+D:\vs community\Delegate_Interface\Delegate_Interface\obj\Debug\net6.0\Delegate_Interface.csproj.AssemblyReference.cache
+D:\vs community\Delegate_Interface\Delegate_Interface\obj\Debug\net6.0\Delegate_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs community\Delegate_Interface\Delegate_Interface\obj\Debug\net6.0\Delegate_Interface.AssemblyInfoInputs.cache
+D:\vs community\Delegate_Interface\Delegate_Interface\obj\Debug\net6.0\Delegate_Interface.AssemblyInfo.cs
+D:\vs community\Delegate_Interface\Delegate_Interface\obj\Debug\net6.0\Delegate_Interface.csproj.CoreCompileInputs.cache
+D:\vs community\Delegate_Interface\Delegate_Interface\obj\Debug\net6.0\Delegate_Interface.dll
+D:\vs community\Delegate_Interface\Delegate_Interface\obj\Debug\net6.0\refint\Delegate_Interface.dll
+D:\vs community\Delegate_Interface\Delegate_Interface\obj\Debug\net6.0\Delegate_Interface.pdb
+D:\vs community\Delegate_Interface\Delegate_Interface\obj\Debug\net6.0\Delegate_Interface.genruntimeconfig.cache
+D:\vs community\Delegate_Interface\Delegate_Interface\obj\Debug\net6.0\ref\Delegate_Interface.dll
