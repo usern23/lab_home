@@ -1,0 +1,15 @@
+D:\vs community\Laba_Aud_Semestr_2\Laba_Aud_Semestr_2\bin\Debug\net6.0\Laba_Aud_Semestr_2.exe
+D:\vs community\Laba_Aud_Semestr_2\Laba_Aud_Semestr_2\bin\Debug\net6.0\Laba_Aud_Semestr_2.deps.json
+D:\vs community\Laba_Aud_Semestr_2\Laba_Aud_Semestr_2\bin\Debug\net6.0\Laba_Aud_Semestr_2.runtimeconfig.json
+D:\vs community\Laba_Aud_Semestr_2\Laba_Aud_Semestr_2\bin\Debug\net6.0\Laba_Aud_Semestr_2.dll
+D:\vs community\Laba_Aud_Semestr_2\Laba_Aud_Semestr_2\bin\Debug\net6.0\Laba_Aud_Semestr_2.pdb
+D:\vs community\Laba_Aud_Semestr_2\Laba_Aud_Semestr_2\obj\Debug\net6.0\Laba_Aud_Semestr_2.csproj.AssemblyReference.cache
+D:\vs community\Laba_Aud_Semestr_2\Laba_Aud_Semestr_2\obj\Debug\net6.0\Laba_Aud_Semestr_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs community\Laba_Aud_Semestr_2\Laba_Aud_Semestr_2\obj\Debug\net6.0\Laba_Aud_Semestr_2.AssemblyInfoInputs.cache
+D:\vs community\Laba_Aud_Semestr_2\Laba_Aud_Semestr_2\obj\Debug\net6.0\Laba_Aud_Semestr_2.AssemblyInfo.cs
+D:\vs community\Laba_Aud_Semestr_2\Laba_Aud_Semestr_2\obj\Debug\net6.0\Laba_Aud_Semestr_2.csproj.CoreCompileInputs.cache
+D:\vs community\Laba_Aud_Semestr_2\Laba_Aud_Semestr_2\obj\Debug\net6.0\Laba_Aud_Semestr_2.dll
+D:\vs community\Laba_Aud_Semestr_2\Laba_Aud_Semestr_2\obj\Debug\net6.0\refint\Laba_Aud_Semestr_2.dll
+D:\vs community\Laba_Aud_Semestr_2\Laba_Aud_Semestr_2\obj\Debug\net6.0\Laba_Aud_Semestr_2.pdb
+D:\vs community\Laba_Aud_Semestr_2\Laba_Aud_Semestr_2\obj\Debug\net6.0\Laba_Aud_Semestr_2.genruntimeconfig.cache
+D:\vs community\Laba_Aud_Semestr_2\Laba_Aud_Semestr_2\obj\Debug\net6.0\ref\Laba_Aud_Semestr_2.dll
