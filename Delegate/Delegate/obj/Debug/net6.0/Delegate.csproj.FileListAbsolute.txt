@@ -1,0 +1,15 @@
+D:\vs community\Delegate\Delegate\bin\Debug\net6.0\Delegate.exe
+D:\vs community\Delegate\Delegate\bin\Debug\net6.0\Delegate.deps.json
+D:\vs community\Delegate\Delegate\bin\Debug\net6.0\Delegate.runtimeconfig.json
+D:\vs community\Delegate\Delegate\bin\Debug\net6.0\Delegate.dll
+D:\vs community\Delegate\Delegate\bin\Debug\net6.0\Delegate.pdb
+D:\vs community\Delegate\Delegate\obj\Debug\net6.0\Delegate.csproj.AssemblyReference.cache
+D:\vs community\Delegate\Delegate\obj\Debug\net6.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs community\Delegate\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfoInputs.cache
+D:\vs community\Delegate\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfo.cs
+D:\vs community\Delegate\Delegate\obj\Debug\net6.0\Delegate.csproj.CoreCompileInputs.cache
+D:\vs community\Delegate\Delegate\obj\Debug\net6.0\Delegate.dll
+D:\vs community\Delegate\Delegate\obj\Debug\net6.0\refint\Delegate.dll
+D:\vs community\Delegate\Delegate\obj\Debug\net6.0\Delegate.pdb
+D:\vs community\Delegate\Delegate\obj\Debug\net6.0\Delegate.genruntimeconfig.cache
+D:\vs community\Delegate\Delegate\obj\Debug\net6.0\ref\Delegate.dll
