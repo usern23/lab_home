@@ -1,29 +1,33 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ConsoleApplication38
+﻿internal class Program
 {
-    class Program
+    private static void Main(string[] args)
     {
-        static void Main(string[] args)
+        int[] mass = Array.ConvertAll(Console.ReadLine().Split(' '), s => int.Parse(s));
+        var plus_m = from i in mass where i > 0 select i;
+        Console.WriteLine("Положительные");
+        foreach (var i in plus_m) { Console.WriteLine(i); }
+        var minus_summ = (from i in mass where i < 0 select i).Sum();
+        Console.WriteLine("Сумма отрицательных {0}", minus_summ);
+        var count = (from i in mass where i % 5 == 0 select i).Count();
+        Console.WriteLine("Количество чисел кратных 5 {0}", count);
+        Console.WriteLine("Массив после обработки запросов ");
+        foreach (var i in mass) Console.WriteLine(i); 
+        Console.WriteLine("Удаление всех четных элементов");
+        for(int  i = 0; i < mass.Length; i++) 
         {
-            Console.WriteLine("Введите количество элементов массива");
-            int m = int.Parse(Console.ReadLine());
-            int[] mass = new int[m];
-            for(int i = 0; i < m; i++)
+            if (mass[i] % 2 == 0)
             {
-                mass[i] = int.Parse(Console.ReadLine());
+                mass[i] = default;
             }
-            int v = (from int a in mass where a > 0 select a).Sum();
-            int z = (from int b in mass where b < 0 select b).Count();
-            int w = (from int c in mass where c % 2 == 0 select c).Aggregate((x, y) => x * y);
-            Console.WriteLine("Сумма положительных элементов {0}", v);
-            Console.WriteLine("Количество отрицательных элементов {0}", z);
-            Console.WriteLine("Произведение четных {0}", w);
-            Console.ReadKey();
         }
+        foreach (var i in mass) Console.WriteLine(i);       
+        var plus_m1 = from i in mass where i > 0 select i;
+        Console.WriteLine("Положительные");
+        foreach (var i in plus_m) { Console.WriteLine(i); }
+        var minus_summ1 = (from i in mass where i < 0 select i).Sum();
+        Console.WriteLine("Сумма отрицательных {0}", minus_summ1);
+        var count1 = (from i in mass where i % 5 == 0 select i).Count();
+        Console.WriteLine("Количество чисел кратных 5 {0}", count1);
+
     }
 }
